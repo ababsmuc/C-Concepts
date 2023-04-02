@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/clib/file_writer.cpp
+cstring
+-
+cstdlib
+-
+file_writer.h
+/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/clib/file_writer.h
+
+/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/clib/file_writer.h
+cstdio
+-
+itext_writer.h
+/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/clib/itext_writer.h
+
+/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/clib/itext_writer.h
+

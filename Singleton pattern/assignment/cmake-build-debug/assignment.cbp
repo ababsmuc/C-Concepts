@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="assignment"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\source\;CMake Files\clib\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignment">
+				<Option output="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/assignment" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/include"/>
+					<Add directory="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/clib"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignment"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignment/fast">
+				<Option output="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/assignment" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/include"/>
+					<Add directory="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/clib"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignment/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="clogger">
+				<Option output="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/clib/libclogger.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/clib"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/clib/Makefile&quot;  VERBOSE=1 clogger"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/clib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/clib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/clib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="clogger/fast">
+				<Option output="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/clib/libclogger.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/clib"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/clib/Makefile&quot;  VERBOSE=1 clogger/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/clib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/clib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/cmake-build-debug/clib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/clib/file_writer.cpp">
+			<Option target="clogger"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/clib/file_writer.h">
+			<Option target="clogger"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/clib/logger.c">
+			<Option target="clogger"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/clib/logger.h">
+			<Option target="clogger"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/clogger_as_writer.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/clogger_as_writer.h">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/main.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/source/builder/logger_builder.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/source/console_writer.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/source/decorators/runningtime_decorator.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/source/decorators/timestamp_decorator.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/source/file_writer_adapter.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/source/global/runningtime_provider.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/source/logger.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/source/multi_writer.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/source/program.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/source/stream_writer.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/source/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\source\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Downloads/assignment_03/assignment/assignment/clib/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\clib\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

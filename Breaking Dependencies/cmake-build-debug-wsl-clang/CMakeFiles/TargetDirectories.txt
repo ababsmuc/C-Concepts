@@ -1,0 +1,5 @@
+/mnt/c/Users/HP/Downloads/assignment_01/assignment/cmake-build-debug-wsl-clang/CMakeFiles/edit_cache.dir
+/mnt/c/Users/HP/Downloads/assignment_01/assignment/cmake-build-debug-wsl-clang/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/HP/Downloads/assignment_01/assignment/cmake-build-debug-wsl-clang/assignment/CMakeFiles/assignment.dir
+/mnt/c/Users/HP/Downloads/assignment_01/assignment/cmake-build-debug-wsl-clang/assignment/CMakeFiles/edit_cache.dir
+/mnt/c/Users/HP/Downloads/assignment_01/assignment/cmake-build-debug-wsl-clang/assignment/CMakeFiles/rebuild_cache.dir

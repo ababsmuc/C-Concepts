@@ -1,0 +1,1 @@
+/usr/bin/clang++  -v CMakeFiles/cmTC_21f04.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_21f04 

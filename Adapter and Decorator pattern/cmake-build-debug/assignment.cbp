@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="assignment"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;CMake Files\clib\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignment">
+				<Option output="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/cmake-build-debug/assignment" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/include"/>
+					<Add directory="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/clib"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/llvm-10/lib/clang/10.0.0/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignment"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignment/fast">
+				<Option output="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/cmake-build-debug/assignment" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/include"/>
+					<Add directory="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/clib"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/llvm-10/lib/clang/10.0.0/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignment/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="clogger">
+				<Option output="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/cmake-build-debug/clib/libclogger.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/cmake-build-debug/clib"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/llvm-10/lib/clang/10.0.0/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/clib/Makefile&quot;  VERBOSE=1 clogger"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/clib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/clib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/clib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="clogger/fast">
+				<Option output="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/cmake-build-debug/clib/libclogger.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/cmake-build-debug/clib"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/llvm-10/lib/clang/10.0.0/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/clib/Makefile&quot;  VERBOSE=1 clogger/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/clib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/clib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/HP/Dropbox/PC/Downloads/C++\ Concepts/assignment\ (3)/assignment/assignment/cmake-build-debug/clib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/clib/file_writer.cpp">
+			<Option target="clogger"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/clib/file_writer.h">
+			<Option target="clogger"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/clib/logger.c">
+			<Option target="clogger"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/clib/logger.h">
+			<Option target="clogger"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/include/cloggeradapter.h">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/include/decorator.h">
+			<Option target="assignment"/>
+			<Option target="clogger"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/include/runningtime_decorator.h">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/main.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/program.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/src/cloggeradapter.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/src/console_writer.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/src/decorator.cpp">
+			<Option target="assignment"/>
+			<Option target="clogger"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/src/decorators/timestamp_decorator.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/src/file_writer_adapter.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/src/logger.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/src/multi_writer.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/src/runningtime_decorator.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/src/stream_writer.cpp">
+			<Option target="assignment"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/clib/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\clib\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

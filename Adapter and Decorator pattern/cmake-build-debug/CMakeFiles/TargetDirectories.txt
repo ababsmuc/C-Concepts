@@ -1,0 +1,8 @@
+/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/cmake-build-debug/CMakeFiles/assignment.dir
+/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/cmake-build-debug/clib/CMakeFiles/clogger.dir
+/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/cmake-build-debug/clib/CMakeFiles/edit_cache.dir
+/mnt/c/Users/HP/Dropbox/PC/Downloads/C++ Concepts/assignment (3)/assignment/assignment/cmake-build-debug/clib/CMakeFiles/rebuild_cache.dir

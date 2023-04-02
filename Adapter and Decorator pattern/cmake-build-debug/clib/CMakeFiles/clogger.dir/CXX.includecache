@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/HP/Downloads/assignment_02/assignment/assignment/include/decorator.h
+memory
+-
+../include/ilogger.h
+/mnt/c/Users/HP/Downloads/assignment_02/assignment/assignment/include/ilogger.h
+
+/mnt/c/Users/HP/Downloads/assignment_02/assignment/assignment/include/ilogger.h
+string_view
+-
+
+/mnt/c/Users/HP/Downloads/assignment_02/assignment/assignment/src/decorator.cpp
+string_view
+-
+../include/decorator.h
+/mnt/c/Users/HP/Downloads/assignment_02/assignment/assignment/include/decorator.h
+../include/ilogger.h
+/mnt/c/Users/HP/Downloads/assignment_02/assignment/assignment/include/ilogger.h
+
